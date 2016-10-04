@@ -20,3 +20,9 @@ body {
     height: 200px;
 }
 
+ .ball{
+                max-width:800px;
+                color:gray;
+                margin:0 auto;
+                font-family:sans-serif;
+            }
